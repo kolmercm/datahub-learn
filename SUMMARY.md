@@ -299,6 +299,7 @@
     * [Deploy your own secret NFT](network-documentation/secret/tutorials/deploy-your-own-secret-nft.md)
 * [🔋 Solana](network-documentation/solana/README.md)
   * [✏ Solana 101](network-documentation/solana/solana-101.md)
+  * [🖼 Solana NFT](network-documentation/solana/Solana_NFT_Tutorial.md)
   * [👀 Resources](network-documentation/solana/resources.md)
   * [🎮 RPC & REST API](network-documentation/solana/rpc-and-rest-api/README.md)
     * [Solana RPC](network-documentation/solana/rpc-and-rest-api/solana-rpc/README.md)
